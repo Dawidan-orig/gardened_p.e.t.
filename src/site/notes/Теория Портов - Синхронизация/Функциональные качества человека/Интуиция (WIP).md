@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-sinhronizacziya/funkczionalnye-kachestva-cheloveka/intuicziya-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - Синхронизация/Функциональные качества человека/Интуиция (WIP)/"}
 ---
 
 Подсознательные, эффективые вычисления, пассивное размышление и рефлексы.
