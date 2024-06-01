@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-sinhronizacziya/zhiteli-marsa-zhenshhiny/posledovatelnost-postroeniya-otnoshenij-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - Синхронизация/Жители Марса, женщины/Последовательность построения отношений (WIP)/"}
 ---
 
 Тут уже помогает Луркоморье с его приземленным и очень простым подходом к вещам.
