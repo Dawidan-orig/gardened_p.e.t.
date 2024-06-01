@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-baza/monadologiya-i-pet-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - База/Монадология и ПЭТ (WIP)/"}
 ---
 
 Пока что субъективное.
