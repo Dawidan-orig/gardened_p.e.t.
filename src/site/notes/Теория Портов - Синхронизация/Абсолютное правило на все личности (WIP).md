@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-sinhronizacziya/absolyutnoe-pravilo-na-vse-lichnosti-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - Синхронизация/Абсолютное правило на все личности (WIP)/"}
 ---
 
 Гипотеза.
