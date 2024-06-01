@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-sinhronizacziya/vera-i-religiya/smysl-zhizni-uchyonogo-vera-v-zakonomernosti-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - Синхронизация/Вера и Религия/Смысл жизни Учёного, Вера в закономерности (WIP)/"}
 ---
 
 Я верю, что всё конечно, что всему можно найти применение и подход. Всё можно адаптировать и использовать в лучших целях.
