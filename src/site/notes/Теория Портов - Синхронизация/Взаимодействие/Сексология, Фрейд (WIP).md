@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/teoriya-portov-sinhronizacziya/vzaimodejstvie/seksologiya-frejd-wip/"}
+{"dg-publish":true,"permalink":"/Теория Портов - Синхронизация/Взаимодействие/Сексология, Фрейд (WIP)/"}
 ---
 
